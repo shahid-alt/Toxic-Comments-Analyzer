@@ -92,4 +92,3 @@ if __name__ == '__main__':
     elif click==True and len(text)==0:
         st.error('Comment not found. Please type comment.',icon='🚨')
 
-
